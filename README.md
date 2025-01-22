@@ -21,8 +21,3 @@ npm install
 ```bash
 nodemon index
 ```
-
-### 4.  Jalankan Aplikasi di Frontend
-```bash
-npm start
-```
